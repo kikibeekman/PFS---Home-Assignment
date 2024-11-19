@@ -1,4 +1,4 @@
-# ---------------- Programming for Psychologists - Home Assignment ----------------
+#Programming for Psychologists - Home Assignment
 Name: Kiki Beekman
 Date: 19-11-2024
 Vrije Universiteit Amsterdam
