@@ -3,7 +3,7 @@ Name: Kiki Beekman\
 Date: 19-11-2024\
 Vrije Universiteit Amsterdam
 
-Data that fits this project can be found on [Neurosynth](https://neurosynth.org/). The specific data that was used in this project can be found [here](https://neurosynth.org/analyses/terms/mental%20imagery/).
+Data that fits this project can be found on [Neurosynth](https://neurosynth.org/) under Meta-analyses --> Terms. The specific data that was used in this project can be found [here](https://neurosynth.org/analyses/terms/mental%20imagery/).
 
 
 PROJECT\
