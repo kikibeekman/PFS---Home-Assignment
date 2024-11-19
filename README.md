@@ -7,7 +7,7 @@ Data that fits this project can be found on [Neurosynth](https://neurosynth.org/
 
 
 PROJECT\
-This project aims to visualize the fMRI data associated with a specific cognitive concept (e.g. episodic memory) or clinically relevant term (e.g. depression). It does so by plotting the functional data acquired from Neurosynth over the anatomical map of the brain. Additionally, a histogram is created that shows the distribution of the positive values within the functional data of the chosen concept (in this case mental imagery).
+This project aims to visualize the fMRI data associated with a specific cognitive concept (e.g. episodic memory) or clinically relevant term (e.g. depression). It does so by plotting the functional data acquired from Neurosynth over the anatomical map of the brain. Additionally, a histogram is created that shows the distribution of the positive values within the functional data of the chosen concept. For this project, the concept of mental imagery was chosen.
 
 
 TABLE OF CONTENTS
