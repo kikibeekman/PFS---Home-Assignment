@@ -1,12 +1,12 @@
 # Programming for Psychologists - Home Assignment
-Name: Kiki Beekman
-Date: 19-11-2024
+Name: Kiki Beekman\
+Date: 19-11-2024\
 Vrije Universiteit Amsterdam
 
 Data that fits this project can be found on [Neurosynth](https://neurosynth.org/). The specific data that was used in this project can be found [here](https://neurosynth.org/analyses/terms/mental%20imagery/).
 
 
-PROJECT
+PROJECT\
 This project aims to visualize the fMRI data associated with a specific cognitive concept (e.g. episodic memory) or clinically relevant term (e.g. depression). It does so by plotting the functional data acquired from Neurosynth over the anatomical map of the brain. Additionally, a histogram is created that shows the distribution of the positive values within the functional data of the chosen concept (in this case mental imagery).
 
 
@@ -17,7 +17,7 @@ TABLE OF CONTENTS
 - The code to create the visualization and plot of the functional data can be found in the attached Jupyter Notebook (3)
 	(3) fMRI_home_assignment.ipynb
 
-USED PACKAGES
+USED PACKAGES\
 The packages that are used throughout the script are as follows:
 - glob2
 - matplotlib
