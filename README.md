@@ -21,7 +21,7 @@ The code to create the visualization (fMRI image and statistical plot) of the fu
 
 **USED PACKAGES**\
 The packages that are used throughout the script are as follows:
-- glob2
+- glob
 - matplotlib
 - nilearn
 - nibabel
